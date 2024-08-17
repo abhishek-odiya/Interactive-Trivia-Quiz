@@ -5,8 +5,11 @@ Dive into a fun and educational experience with our Interactive Trivia Quiz! Thi
 **Key Features**:
 
 **Dynamic Question Display**: Each question is presented with multiple choice answers, allowing you to select the correct option easily.
+
 **Navigation Controls**: Seamlessly navigate through questions using the "Previous" and "Next" buttons, ensuring you have full control over your quiz experience.
+
 **Real-Time Score Tracking**: Keep track of your performance with real-time updates on the number of correct and incorrect answers, as well as the total number of questions attempted.
+
 **Immediate Feedback**: Get instant feedback on your answers to help reinforce learning and retention of information.
 
 **Purpose and Audience**:
