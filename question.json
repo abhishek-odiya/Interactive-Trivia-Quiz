@@ -1,0 +1,108 @@
+[
+    {
+        "question": "A flashing red traffic light signifies that a driver should do what?",
+        "A": "stop",
+        "B": "speed up",
+        "C": "proceed with caution",
+        "D": "honk the horn",
+        "answer": "A"
+    }, {
+        "question": "A portrait that comically exaggerates a person's physical traits is called a what?",
+        "A": "landscape",
+        "B": "caricature",
+        "C": "still life",
+        "D": "Impressionism",
+        "answer": "B"
+    }, {
+        "question": "A second-year college student is usually called a what?",
+        "A": "sophomore",
+        "B": "senior",
+        "C": "freshman ",
+        "D": "junior ",
+        "answer": "A"
+    }, {
+        "question": "A student who earns a J.D. can begin his or her career as a what?",
+        "A": "lawyer",
+        "B": "bricklayer",
+        "C": "doctor",
+        "D": "accountant",
+        "answer": "A"
+    }, {
+        "question": "A triptych is a work of art that is painted on how many panels?",
+        "A": "two",
+        "B": "three",
+        "C": "five",
+        "D": "eight",
+        "answer": "B"
+    }, {
+        "question": "According to a famous line from the existentialist play 'No Exit' what is hell?",
+        "A": "oneself",
+        "B": "other people",
+        "C": "little made large",
+        "D": "hued in green and blue",
+        "answer": "B"
+    }, {
+        "question": "According to a popular slogan, what state should people not 'mess with'?",
+        "A": "New York",
+        "B": "Texas",
+        "C": "Montana",
+        "D": "Rhode Island",
+        "answer": "B"
+    }, {
+        "question": "According to a Yale University study, what smell is the most recognizable to American adults?",
+        "A": "tuna",
+        "B": "laundry",
+        "C": "popcorn",
+        "D": "coffee",
+        "answer": "D"
+    }, {
+        "question": "How many states were in the Confederate States of America?",
+        "A": "11",
+        "B": "13",
+        "C": "16",
+        "D": "22",
+        "answer": "A"
+    }, {
+        "question": "How much does Peanuts character Lucy charge for her psychiatric advice?",
+        "A": "5 cents",
+        "B": "10 cents",
+        "C": "75 cents",
+        "D": "$125",
+        "answer": "A"
+    }, {
+        "question": "If a piece of music is in 'common time' how many quarter notes are there per measure?",
+        "A": "one",
+        "B": "four",
+        "C": "five",
+        "D": "ten",
+        "answer": "B"
+    }, {
+        "question": "If a ring has the number 925 stamped into it, it is most likely made of what material?",
+        "A": "platinum",
+        "B": "gold",
+        "C": "steel",
+        "D": "silver",
+        "answer": "D"
+    }, {
+        "question": "If Christmas Day is on a Saturday, then the following New Year's Day falls on what day of the week?",
+        "A": "Sunday",
+        "B": "Monday",
+        "C": "Friday",
+        "D": "Saturday",
+        "answer": "D"
+    }, {
+        "question": "If someone has cataracts, what part of their body might need an operation?",
+        "A": "ear",
+        "B": "hand",
+        "C": "eye",
+        "D": "knee",
+        "answer": "C"
+    }, {
+        "question": "If you are 'riding fakie' inside a 'half pipe' what are you probably doing?",
+        "A": "skiing",
+        "B": "biking",
+        "C": "snowboarding",
+        "D": "surfing",
+        "answer": "C"
+    }
+]
